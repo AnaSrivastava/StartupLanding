@@ -1,2 +1,2 @@
 # SL
-Shopping List
+Startup Landing Page
